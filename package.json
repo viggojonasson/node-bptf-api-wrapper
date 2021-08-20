@@ -1,0 +1,26 @@
+{
+    "name": "bptf-listing-parser",
+    "version": "1.0.0",
+    "description": "A backpack.tf api wrapper that simplifies the usage of the confusing backpack.tf api.",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "npx tsc"
+    },
+    "types": "./dist/index.d.ts",
+    "keywords": [
+        "tf2",
+        "backpacktf"
+    ],
+    "author": "Viggo Jonasson",
+    "bugs": {
+        "url": "https://github.com/viggojonasson/node-bptf-api-wrapper/issues"
+    },
+    "homepage": "https://github.com/viggojonasson/node-bptf-api-wrapper#readme",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.3.5"
+    },
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
