@@ -1,5 +1,5 @@
 {
-    "name": "bptf-listing-parser",
+    "name": "bptf-api-wrapper",
     "version": "1.0.0",
     "description": "A backpack.tf api wrapper that simplifies the usage of the confusing backpack.tf api.",
     "main": "dist/index.js",
